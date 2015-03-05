@@ -6,3 +6,15 @@
 +  THIS is where the details of the 時だ鉄子 idea are recorded
 
 ##PoC/PUTS Project: 猿飛鉄子IF in NV Alt
+
+##General Notes
+-  Backgrounds have to 800 x 600
+    +  JPG for backgrounds
+    -  PNGs for characters (transparencies)
+
+##Script.rpy
+-  `#pictures`
+-  `#music`-->.mp3
+-  `#scenes`
+-  `#characters`-->names
+
